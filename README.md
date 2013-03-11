@@ -4,7 +4,7 @@ Cloud Stack Client API
 Description
 ---------------
 
-Lib para acesso via linecommnd da api do CloudStack - AMC
+Lib para acesso via linecommnd da api do CloudStack
 
 Informações e Recomendações
 ---------------
@@ -48,5 +48,4 @@ Contributors
 ------------
 
  * Everton Amaral <everton.amaral@abril.com.br>
- * Alexandria
 
